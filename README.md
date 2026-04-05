@@ -10,10 +10,9 @@ This project is a backend system for managing financial records and providing da
 
 ## Key Points
 - Authentication is mocked using `user-id` header.
-- SQLite used for simplicity. Used raw SQL to keep implementation lightweight
-- Implemented role-based access using middleware (VIEWER, ANALYST, ADMIN)
-- Viewer role restricted to dashboard only
-- Separated routes, controllers, and middleware for clarity
+- SQLite used for simplicity. Used raw SQL to keep implementation lightweight.
+- Implemented role-based access using middleware (VIEWER, ANALYST, ADMIN). Viewer role restricted to dashboard only.
+- Separated routes, controllers, and middleware for clarity.
 
 ## Features
 

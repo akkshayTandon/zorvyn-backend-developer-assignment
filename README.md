@@ -1,10 +1,11 @@
 # Finance Dashboard Backend Developer Assignment - Zorvyn
 
 ## Overview
-This project is a backend system for managing financial records and providing dashboard insights with role-based access control.
+This project is a backend system for managing financial records and providing dashboard insights with role-based access control. 
+
+View Assignment Details [here](https://github.com/akkshayTandon/zorvyn-backend-developer-assignment/blob/main/Assignment-Details.md).
 
 ## Tech Stack
-- Node.js
 - Express.js
 - SQLite (better-sqlite3)
 
